@@ -12,9 +12,11 @@
 
 ### Hi there 👋
 
-I am a passionate team leading engineer (full-stack) with more than 8 years of experience designing and implementing technically sophisticated backend systems, integrations, frontend web applications and mobile apps. I've been working mainly with [Clojure](https://clojure.org) and [ClojureScript](https://clojurescript.org) in the last 5 years.
+I am a passionate team-leading engineer (full-stack) with more than 11 years of experience designing and implementing technically sophisticated backend systems, integrations, frontend web applications and mobile apps. I've been working mainly with [Clojure](https://clojure.org) and [ClojureScript](https://clojurescript.org) in the last 8 years, however, I have a background with several programming languages including Java, Python, JavaScript and Swift.
 
-I'm currently working as the CTO of [Scrintal](https://www.scrintal.com). We are developing Scrintal with using Clojure, ClojureScript, [Datomic](https://www.datomic.com), [DataScript](https://github.com/tonsky/datascript), [Reagent](https://github.com/tonsky/datascript), and [re-frame](https://github.com/day8/re-frame). 
+I'm currently working as the CTO of [Scrintal](https://www.scrintal.com). We are developing Scrintal with using Clojure, ClojureScript, [Datomic](https://www.datomic.com), [Dexie](https://dexie.org),  [DataScript](https://github.com/tonsky/datascript), [uix](https://github.com/pitch-io/uix), [Reagent](https://github.com/tonsky/datascript), and [re-frame](https://github.com/day8/re-frame).
+
+I designed and built complex cloud systems in Amazon Web Services (AWS), Google Cloud and Firebase. I’m experienced in team leading activities including but not limited to [Shape Up](https://basecamp.com/shapeup), Kanban, retrospectives, supervision, recruitment and mentorship.
 
 #### 💪 Open Source
 
