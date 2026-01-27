@@ -12,11 +12,9 @@
 
 ### Hi there 👋
 
-I am a passionate team-leading engineer (full-stack) with more than 12 years of experience designing and implementing technically sophisticated backend systems, integrations, frontend web applications, and mobile apps. I've been working mainly with [Clojure](https://clojure.org) and [ClojureScript](https://clojurescript.org) for the past 8 years; however, I have a background in several programming languages, including Java, Python, JavaScript, and Swift.
+I am a passionate team-leading engineer (full-stack) with more than 12 years of experience designing and implementing technically sophisticated backend systems, integrations, frontend web applications, and mobile apps. I've been working mainly with [Clojure](https://clojure.org) and [ClojureScript](https://clojurescript.org) for the past 8 years; however, I have a background in several programming languages, including Java, Python, JavaScript, Go, TypeScript, and Swift. I designed and built complex cloud systems in Amazon Web Services (AWS), Google Cloud, and Firebase. I'm experienced in team leading activities, including but not limited to [Shape Up](https://basecamp.com/shapeup), Kanban, retrospectives, supervision, recruitment, and mentorship.
 
-I'm currently working as the CTO of [Scrintal](https://www.scrintal.com). We are developing Scrintal using Clojure, ClojureScript, [Datomic](https://www.datomic.com), [Dexie](https://dexie.org),  [DataScript](https://github.com/tonsky/datascript), [uix](https://github.com/pitch-io/uix), [Reagent](https://github.com/tonsky/datascript), and [re-frame](https://github.com/day8/re-frame).
-
-I designed and built complex cloud systems in Amazon Web Services (AWS), Google Cloud, and Firebase. I’m experienced in team leading activities, including but not limited to [Shape Up](https://basecamp.com/shapeup), Kanban, retrospectives, supervision, recruitment, and mentorship.
+I'm currently a Team Lead at [Lovable](https://lovable.dev), helping anyone build what only developers could before. Previously, I was the co-founder and CTO of [Scrintal](https://www.scrintal.com), where I built the product from scratch and grew the team over 5 years.
 
 #### 💪 Open Source
 
